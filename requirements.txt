@@ -1,1 +1,5 @@
 opencv-python
+numpy
+pyautogui
+pyperclip
+Pillow
